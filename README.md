@@ -1,7 +1,4 @@
 # Know Your Plastic Footprint
-A Shiny web application for estimating personal plastic use, setting reduction goals, and storing responses locally for monitoring and analysis.
-
-## Overview
 
 Know Your Plastic Footprint is an interactive R Shiny application designed to help individuals quantify their plastic consumption and reflect on their environmental impact.
 
@@ -36,12 +33,6 @@ The application supports sustainability campaign (i.e. Way Plastikay) by transfo
 ### Admin Panel
 - Download collected data
 - Monitor submissions
-
-## Use Cases
-- Sustainability awareness campaigns (e.g., Way Plastikay)
-- University or campus environmental monitoring
-- Classroom teaching tool for environmental science
-- Community-level plastic footprint tracking
 
 ## Acknowledgment
 Developed to support sustainability initiatives and promote data-driven environmental awareness and action.

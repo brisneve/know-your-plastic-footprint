@@ -1,7 +1,3 @@
-# ---------------------------------
-# Plastic Footprint Calculator App
-# ---------------------------------
-
 library(shiny)
 library(bslib)
 library(dplyr)

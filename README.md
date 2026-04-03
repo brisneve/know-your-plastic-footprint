@@ -37,4 +37,4 @@ The application supports sustainability campaign (i.e. Way Plastikay) by transfo
 - Monitor submissions
 
 ## Acknowledgment
-Developed to support sustainability initiatives and promote data-driven environmental awareness and action.
+Developed to support sustainability initiatives and promote data-driven environmental awareness and action. It is intended for use in academic, institutional, and community-based environmental programs. Contributions and adaptations are encouraged to further enhance its applicability and impact.

@@ -1,5 +1,7 @@
 # Know Your Plastic Footprint
 
+## Overview
+
 Know Your Plastic Footprint is an interactive R Shiny application designed to help individuals quantify their plastic consumption and reflect on their environmental impact.
 
 Users input their weekly or monthly use of common plastic items (e.g., bottles, sachets, packaging), and the app computes:
